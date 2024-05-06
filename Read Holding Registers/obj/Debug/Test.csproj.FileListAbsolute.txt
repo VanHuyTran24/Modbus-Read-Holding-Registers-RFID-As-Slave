@@ -1,0 +1,30 @@
+D:\NamBa(2023-2024)\IOT\Test\bin\Debug\Test.exe.config
+D:\NamBa(2023-2024)\IOT\Test\bin\Debug\Test.exe
+D:\NamBa(2023-2024)\IOT\Test\bin\Debug\Test.pdb
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.Form1.resources
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.Properties.Resources.resources
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.exe
+D:\NamBa(2023-2024)\IOT\Test\obj\Debug\Test.pdb
+E:\Iot\Test\bin\Debug\Test.exe.config
+E:\Iot\Test\bin\Debug\Test.exe
+E:\Iot\Test\bin\Debug\Test.pdb
+E:\Iot\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\Iot\Test\obj\Debug\Test.Form1.resources
+E:\Iot\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Iot\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Iot\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Iot\Test\obj\Debug\Test.exe
+E:\Iot\Test\obj\Debug\Test.pdb
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\bin\Debug\Test.exe.config
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\bin\Debug\Test.exe
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\bin\Debug\Test.pdb
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.Form1.resources
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.exe
+C:\Users\admin\OneDrive - hcmute.edu.vn\Desktop\Test\obj\Debug\Test.pdb
